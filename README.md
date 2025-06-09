@@ -1,1 +1,1 @@
-# oreilly-open-source-reasoning
+# Material for the course "Open Source Reasoning Language Models"
