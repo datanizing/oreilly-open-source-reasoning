@@ -59,21 +59,21 @@ documentation (or run it later).
 
 
 ### Running different models with GPUs
-[11-deepseek-distill-qwen3-8.ipynb: Use a distilled DeepSeek model](11-deepseek-distill-qwen3-8.ipynb)
-[12-qwen3-8.ipynb: Use a hybrid Qwen3 model with 8B parameters](12-qwen3-8.ipynb)
-[13-nanbeige-3.ipynb: Use a new, very small and powerful model](13-nanbeige-3.ipynb)
-[14-nanbeige-3-tool.ipynb: Same as before, but with reasoning (e.g. agentic usage)](14-nanbeige-3-tool.ipynb)
-[15-mimo-7.ipynb: Use MiMo model from Xiaomi](15-mimo-7.ipynb)
-[16-gpt-oss-20.ipynb: Use GPT-OSS from OpenAI with efficient MXFP4 datatype](16-gpt-oss-20.ipynb)
-[17-qwen3-0.6.ipynb: Use a small Qwen3 model](17-qwen3-0.6.ipynb)
-[21-qwen3-8-awq-vllm.ipynb: Use a quantized model with vLLM for optimized generation](21-qwen3-8-awq-vllm.ipynb)
+* [11-deepseek-distill-qwen3-8.ipynb: Use a distilled DeepSeek model](11-deepseek-distill-qwen3-8.ipynb)
+* [12-qwen3-8.ipynb: Use a hybrid Qwen3 model with 8B parameters](12-qwen3-8.ipynb)
+* [13-nanbeige-3.ipynb: Use a new, very small and powerful model](13-nanbeige-3.ipynb)
+* [14-nanbeige-3-tool.ipynb: Same as before, but with reasoning (e.g. agentic usage)](14-nanbeige-3-tool.ipynb)
+* [15-mimo-7.ipynb: Use MiMo model from Xiaomi](15-mimo-7.ipynb)
+* [16-gpt-oss-20.ipynb: Use GPT-OSS from OpenAI with efficient MXFP4 datatype](16-gpt-oss-20.ipynb)
+* [17-qwen3-0.6.ipynb: Use a small Qwen3 model](17-qwen3-0.6.ipynb)
+* [21-qwen3-8-awq-vllm.ipynb: Use a quantized model with vLLM for optimized generation](21-qwen3-8-awq-vllm.ipynb)
 
 ### Running different models on MacOS
-[31-mlx-deepseek-qwen3-8b.ipynb: Run the Qwen3 8B model on MacOS](31-mlx-deepseek-qwen3-8b.ipynb)
-[32-mlx-qwen-30-3.ipynb: Run a larger Qwen3 30B model with 3B active parameters on MacOS](32-mlx-qwen-30-3.ipynb)
+* [31-mlx-deepseek-qwen3-8b.ipynb: Run the Qwen3 8B model on MacOS](31-mlx-deepseek-qwen3-8b.ipynb)
+* [32-mlx-qwen-30-3.ipynb: Run a larger Qwen3 30B model with 3B active parameters on MacOS](32-mlx-qwen-30-3.ipynb)
 
 ### Finetuning with GRPO
-[41-finetune-numinamath-grpo-trl-qwen.ipynb: Use Hugging Face `trl` to train a model](41-finetune-numinamath-grpo-trl-qwen.ipynb)
-[41-finetune-numinamath-grpo-trl-qwen-complete.ipynb: Same as before, but with output](41-finetune-numinamath-grpo-trl-qwen-complete.ipynb)
-[42-unsloth-qwen3-4-base.ipynb: Use a combination of `unsloth` and `vllm` to train a model](42-unsloth-qwen3-4-base-complete.ipynb)
-[42-unsloth-qwen3-4-base-complete.ipynb: Same as before, but with output](42-unsloth-qwen3-4-base-complete.ipynb)
+* [41-finetune-numinamath-grpo-trl-qwen.ipynb: Use Hugging Face `trl` to train a model](41-finetune-numinamath-grpo-trl-qwen.ipynb)
+* [41-finetune-numinamath-grpo-trl-qwen-complete.ipynb: Same as before, but with output](41-finetune-numinamath-grpo-trl-qwen-complete.ipynb)
+* [42-unsloth-qwen3-4-base.ipynb: Use a combination of `unsloth` and `vllm` to train a model](42-unsloth-qwen3-4-base-complete.ipynb)
+* [42-unsloth-qwen3-4-base-complete.ipynb: Same as before, but with output](42-unsloth-qwen3-4-base-complete.ipynb)
