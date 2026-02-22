@@ -1,0 +1,15 @@
+[project]
+name = "unsloth-env"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "datasets>=4.3.0",
+    "ipykernel>=7.2.0",
+    "jupyter>=1.1.1",
+    "transformers==4.56.2",
+    "trl==0.22.2",
+    "unsloth>=2026.2.1",
+    "vllm>=0.15.1",
+]
