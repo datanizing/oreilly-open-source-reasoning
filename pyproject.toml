@@ -12,6 +12,7 @@ dependencies = [
     "jupyter>=1.1.1",
     "kernels>=0.12.1",
     "liger-kernel>=0.7.0",
+    "openrouter>=0.6.0",
     "peft>=0.18.1",
     "transformers>=5.2.0",
     "triton>=3.4.0",
