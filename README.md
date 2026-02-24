@@ -71,6 +71,7 @@ documentation (or run it later).
 ### Running different models on MacOS
 * [31-mlx-deepseek-qwen3-8b.ipynb: Run the Qwen3 8B model on MacOS](31-mlx-deepseek-qwen3-8b.ipynb)
 * [32-mlx-qwen-30-3.ipynb: Run a larger Qwen3 30B model with 3B active parameters on MacOS](32-mlx-qwen-30-3.ipynb)
+* [33-openrouter.ipynb: Use OpenRouter to run other reasoning models](32-openrouter.ipynb)
 
 ### Finetuning with GRPO
 * [41-finetune-numinamath-grpo-trl-qwen.ipynb: Use Hugging Face `trl` to train a model](41-finetune-numinamath-grpo-trl-qwen.ipynb)
