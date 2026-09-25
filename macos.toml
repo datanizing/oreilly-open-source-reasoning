@@ -3,8 +3,13 @@ name = "reasoning-env"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.14"
 dependencies = [
-    "jupyter>=1.1.1",
+    "ipykernel>=7.3.0",
+    "ipywidgets>=8.1.9",
     "mlx-lm>=0.31.3",
+    "mlx-optiq>=0.2.18",
+    "mlx-vlm>=0.7.2",
+    "openai>=3.19.2",
+    "openrouter>=1.2.22",
 ]
